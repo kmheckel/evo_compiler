@@ -5,6 +5,7 @@ The accompanying PDF is the longer, non-printed manuscript that was submitted as
 
 This project uses FAIR's/Meta Research's CompilerGym environment in combination with Ray and Evosax in order to evolve neural network policies for optimizing binary executables for minimum code size during compilation.
 
+```
 @inproceedings{10.1145/3583133.3596380,
 author = {Heckel, Kade},
 title = {Neuroevolutionary Compiler Control for Code Optimization},
@@ -22,3 +23,4 @@ keywords = {compilers, neuroevolution},
 location = {Lisbon, Portugal},
 series = {GECCO '23 Companion}
 }
+```
